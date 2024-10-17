@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0FBzI1naEgtzRblN/lYUGC/9oeu9+c0v708EhVb/+4dUIR/8h+4AENMfIL2c5prfedn6FUBI7drwUUrhPSZMQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\excel-data-io\\ExcelIO\\ExcelIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Formulatrix.LAPTOP-I51CE26J\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512",
+    "C:\\Users\\Formulatrix.LAPTOP-I51CE26J\\.nuget\\packages\\exceldatareader.dataset\\3.7.0\\exceldatareader.dataset.3.7.0.nupkg.sha512",
+    "C:\\Users\\Formulatrix.LAPTOP-I51CE26J\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
